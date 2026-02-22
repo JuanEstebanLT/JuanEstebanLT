@@ -13,9 +13,6 @@ API creation
 
 - 📫 Contact me at:  <a href="juanestebanlezcanotejada@gmail.com">juanestebanlezcanotejada@gmail.com</a>
 
-<br>
-<img align="right" width=300px alt="Unicorn" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRtMzRoc2F2ZmM4YmVsbDlmNW9oYXlvazFzb3hkbzUwdjRjdDFtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12K8GGWstl229G/giphy.gif" />
-
 ## My Skills Include
 
 <h4> Languages </h4>
@@ -24,6 +21,8 @@ API creation
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  
+  <img align="right" width=300px alt="Unicorn" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRtMzRoc2F2ZmM4YmVsbDlmNW9oYXlvazFzb3hkbzUwdjRjdDFtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12K8GGWstl229G/giphy.gif" />
 
 </span>
 
