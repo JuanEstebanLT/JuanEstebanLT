@@ -1,8 +1,5 @@
 <h1 align="center"><b>Hi , I'm Juan Lezcano </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<br>
-<img align="right" width=300px alt="Unicorn" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRtMzRoc2F2ZmM4YmVsbDlmNW9oYXlvazFzb3hkbzUwdjRjdDFtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12K8GGWstl229G/giphy.gif" />
-
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 
@@ -15,6 +12,9 @@ API creation
 - Besides technology, I love watching anime, playing video games, listening to music, and reading science fiction books.
 
 - 📫 Contact me at:  <a href="juanestebanlezcanotejada@gmail.com">juanestebanlezcanotejada@gmail.com</a>
+
+<br>
+<img align="right" width=300px alt="Unicorn" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRtMzRoc2F2ZmM4YmVsbDlmNW9oYXlvazFzb3hkbzUwdjRjdDFtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12K8GGWstl229G/giphy.gif" />
 
 ## My Skills Include
 
