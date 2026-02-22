@@ -7,7 +7,7 @@
 
 I'm a third-semester systems engineering student with basic front-end and back-end development skills. I'm currently an intern at Empresas Públicas de Medellín and I love innovating and learning new things. <br>
 - 🌱 I'm currently learning...
-- API creation
+API creation
 - 📖 I'm excited to collaborate on open source projects.
 - ✔ Ask me anything, I'd be happy to help.<br>
 
