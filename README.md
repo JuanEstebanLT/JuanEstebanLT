@@ -11,9 +11,9 @@ API creation
 - 📖 I'm excited to collaborate on open source projects.
 - ✔ Ask me anything, I'd be happy to help.<br>
 
-- Outside tech, 💜I love streaming on twitch, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
-- 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
-- 📫 Reach out to me at: <a href="valenwerlecontacto@gmail.com">valenwerlecontacto@gmail.com</a>
+- Besides technology, I love watching anime, playing video games, listening to music, and reading science fiction books.
+
+- 📫 Contact me at:  <a href="juanestebanlezcanotejada@gmail.com">juanestebanlezcanotejada@gmail.com</a>
 
 ## My Skills Include
 
