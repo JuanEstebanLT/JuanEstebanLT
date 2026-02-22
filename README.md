@@ -42,7 +42,7 @@ API creation
 <a href= "https://www.instagram.com/play1501_yt/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="https://www.tiktok.com/@vapixel_" >
+<a href="https://www.tiktok.com/@play1501" >
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok">
 </a>
 <a href="https://www.twitch.tv/valenwerle" >
