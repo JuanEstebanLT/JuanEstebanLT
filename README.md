@@ -4,7 +4,8 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
+
+I'm a third-semester systems engineering student with basic front-end and back-end development skills. I'm currently an intern at Empresas Públicas de Medellín and I love innovating and learning new things.
 - 🌱 I’m currently learning ...
   - Nest.js
   - Angular
